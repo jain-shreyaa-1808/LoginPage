@@ -1,5 +1,5 @@
 # LoginPage
-This is a simple Login Portal
+This is a simple Login Portal.
 The website is hosted on infinity free
 ## Steps to host it
 1.Create a new account fill in the details and complete till step 3 then click finish.
