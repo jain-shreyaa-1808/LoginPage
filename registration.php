@@ -1,7 +1,7 @@
 <?php
 session_start();
-$con=mysqli_connect('localhost','root');
-mysqli_select_db($con,'session');
+$con=mysqli_connect('sql213.epizy.com','epiz_32582075','n7LhsDfL8SX');
+mysqli_select_db($con,'epiz_32582075_session');
 $name=$_POST['user'];
 $pass=$_POST['password'];
 $pass1=$_POST['cnfpassword'];
@@ -32,4 +32,3 @@ header("location:login.php");
  }
  
 ?>
-
